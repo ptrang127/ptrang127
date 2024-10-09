@@ -1,6 +1,5 @@
 ### Hi there
-<img src="https://emoji.slack-edge.com/T17BEHRML/dabbing/0edc157ff7aa187b.png">
-
+:octocat:
 
 <!--
 **ptrang127/ptrang127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
